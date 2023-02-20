@@ -45,6 +45,7 @@ func main() {
 	resp, err := client.SayHello(context.Background(), &service.HelloRequest{RequestName: "张瑜"})
 	if err != nil {
 		fmt.Println("client.SayHello failed,err:", err)
+		fmt.Println("hello git!")
 		return
 	}
 	//获取回复的消息
