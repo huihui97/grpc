@@ -51,6 +51,7 @@ func main() {
 		fmt.Println("hot-fix test1")
 		fmt.Println("push test")
 		fmt.Println("push test1")
+		fmt.Println("pull test)
 		return
 	}
 	//获取回复的消息
