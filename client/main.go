@@ -50,6 +50,7 @@ func main() {
 		fmt.Println("master test 1")
 		fmt.Println("hot-fix test1")
 		fmt.Println("push test")
+		fmt.Println("push test1")
 		return
 	}
 	//获取回复的消息
