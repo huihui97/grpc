@@ -47,6 +47,7 @@ func main() {
 		fmt.Println("client.SayHello failed,err:", err)
 		fmt.Println("hello git!")
 		fmt.Println("hello git hot-fix")
+		fmt.Println("master test 1")
 		return
 	}
 	//获取回复的消息
