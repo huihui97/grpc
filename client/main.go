@@ -48,6 +48,7 @@ func main() {
 		fmt.Println("hello git!")
 		fmt.Println("hello git hot-fix")
 		fmt.Println("master test 1")
+		fmt.Println("hot-fix test1")
 		return
 	}
 	//获取回复的消息
